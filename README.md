@@ -9,11 +9,11 @@
 
 ## Course materials
 
-| Session | Topic | Slides | Activities | Solutions |
-|---------|-------|:------:|:----------:|:---------:|
-| **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session1-start) | — | — |
-| **Session 2** | Text as Data: Preprocessing & Normalisation | [Download ↓](../../releases/tag/session2-start) | [Download ↓](../../releases/tag/session2-start) | [Solutions ↓](../../releases/tag/session2-solutions) |
-| **Session 3** | Numeric Representations: BoW & TF-IDF | — | — | — |
+| Session | Topic | Slides and Activities | Solutions |
+|---------|-------|:---------------------:|:---------:|
+| **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session1-start) | — |
+| **Session 2** | Text as Data: Preprocessing & Normalisation | [Download ↓](../../releases/tag/session2-start) | - |
+| **Session 3** | Numeric Representations: BoW & TF-IDF | — | — |
 
 > 🔒 Sessions not yet available show — instead of a link.  
 > Solutions are released **after** each session.  
