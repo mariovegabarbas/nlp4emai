@@ -3,7 +3,6 @@
 
 > **How to get the materials**
 > - **No Git experience?** Click any **Download ↓** link below — you get a ZIP with everything for that session.
-> - **Know Git?** `git clone` this repo once, then `git pull` before each session to get new files automatically.
 
 ---
 
