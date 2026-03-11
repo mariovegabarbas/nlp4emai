@@ -24,10 +24,10 @@
 
 ```
 session1/
-└── slides.pdf                         ← no activity files for this session
+└── Session1_vX.pdf                    ← no activity files for this session
 
 session2/
-├── slides.pdf
+├── Session2_vX.pdf
 ├── reviews.csv                        ← keep this in the same folder as the scripts
 └── activities/
     ├── activity_1_student.py          ← hand-made pipeline (TODOs 1–13)
@@ -41,7 +41,13 @@ session2/
         └── activity_2_solution.ipynb
 
 session3/
-└── ...                                ← coming soon
+├── session3_vX.pdf
+└── activities/
+    ├── activity_3_4_student.py          
+    ├── activity_3_4_student.ipynb
+    └── solutions/                     ← released after the session
+        ├── activity_3_4_solution.py
+        └── activity_3_4_solution.ipynb
 ```
 
 ---
