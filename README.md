@@ -2,7 +2,7 @@
 ### NLP4EMAI · Natural Language Processing for EMAI
 
 > **How to get the materials**
-> - **No Git experience?** Click any **Download ↓** link below — you get a ZIP with everything for that session.
+> — Click any of the **Download ↓** links below—you get a ZIP file with everything for that session.
 
 ---
 
