@@ -52,20 +52,6 @@ session3/
 
 ---
 
-## Setup (Session 2 onwards)
-
-```bash
-# 1. Clone the repo (once, at the start of the course)
-git clone https://github.com/YOUR_USERNAME/nlp4emai.git
-cd nlp4emai
-
-# 2. Install dependencies
-pip install pandas jupyter
-
-# 3. Before each session, pull the latest files
-git pull
-```
-
 If you are using **Google Colab**, upload the `.ipynb` file directly and also upload `reviews.csv` to the same Colab session before running any cells.
 
 ---
