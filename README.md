@@ -16,7 +16,6 @@
 
 > 🔒 Sessions not yet available show — instead of a link.  
 > Solutions are released **after** each session.  
-> Session 1 is a slides-only session — no activity files.
 
 ---
 
