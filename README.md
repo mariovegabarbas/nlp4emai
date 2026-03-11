@@ -10,7 +10,7 @@
 
 | Session | Topic | Slides and Activities | Solutions |
 |---------|-------|:---------------------:|:---------:|
-| **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session-1-documentation) | — |
+| **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session-1-documentation) | N/A |
 | **Session 2** | Text as Data: Preprocessing & Normalisation | — | — |
 | **Session 3** | Numeric Representations: BoW & TF-IDF | — | — |
 
