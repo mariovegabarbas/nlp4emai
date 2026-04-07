@@ -13,6 +13,9 @@
 | **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session-1-documentation) | [Solution ↓](../../releases/tag/session-1-solution)  |
 | **Session 2** | Text as Data: Preprocessing & Normalisation | [Download ↓](../../releases/tag/session-2-documentation) | [Solution ↓](../../releases/tag/session-2-solution)  |
 | **Session 3** | Numeric Representations: BoW & TF-IDF | [Download ↓](../../releases/tag/session-3-documentation)  | — |
+| **Session 4** | From counting to meaning | — | — |
+| **Session 5** | From embeddings to context | — | — |
+| **Session 6** | Mini-project | — | — |
 
 > 🔒 Sessions not yet available show — instead of a link.  
 > Solutions are released **after** each session.  
@@ -47,6 +50,23 @@ session3/
     └── solutions/                     ← released after the session
         ├── activity_3_4_solution.py
         └── activity_3_4_solution.ipynb
+
+session4/
+├── session4_vX.pdf
+└── activities/
+    ├── activity_5_Word2Vec_student.py          
+    ├── activity_6_SearchEngine_student.ipynb
+    └── solutions/                     ← released after the session
+        ├── activity_5_Word2Vec_solution.py
+        └── activity_6_SearchEngine_solution.ipynb
+
+session5/
+├── session5_vX.pdf
+├── ...
+└── ...
+
+Mini-project/
+└── ...
 ```
 
 ---
