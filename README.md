@@ -62,11 +62,11 @@ session4/
 
 session5/
 ├── session5_vX.pdf
-├── ...
-└── ...
+├── activity_7_GloVe_vs_BERT
+└── BlockD_DistilBERT_in_Action
 
 Mini-project/
-└── ...
+└── MiniProject_Student_Guide
 ```
 
 ---
