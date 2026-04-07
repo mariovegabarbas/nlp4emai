@@ -10,11 +10,11 @@
 
 | Session | Topic | Slides and Activities | Solutions |
 |---------|-------|:---------------------:|:---------:|
-| **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session-1-documentation) | [Solution ↓](../../releases/tag/session-1-solution)  |
-| **Session 2** | Text as Data: Preprocessing & Normalisation | [Download ↓](../../releases/tag/session-2-documentation) | [Solution ↓](../../releases/tag/session-2-solution)  |
-| **Session 3** | Numeric Representations: BoW & TF-IDF | [Download ↓](../../releases/tag/session-3-documentation)  | — |
-| **Session 4** | From counting to meaning | [Download ↓](../../releases/tag/session-4-documentation)  | — |
-| **Session 5** | From embeddings to context | [Download ↓](../../releases/tag/session-5-documentation)  | — |
+| **Session 1** | Introduction to NLP & Emotion Detection | [Download ↓](../../releases/tag/session-1-documentation) | [Solution ↓](../../releases/tag/session-1-solution) |
+| **Session 2** | Text as Data: Preprocessing & Normalisation | [Download ↓](../../releases/tag/session-2-documentation) | [Solution ↓](../../releases/tag/session-2-solution) |
+| **Session 3** | Numeric Representations: BoW & TF-IDF | [Download ↓](../../releases/tag/session-3-documentation) |
+| **Session 4** | From counting to meaning | [Download ↓](../../releases/tag/session-4-documentation) | [Solution ↓](../../releases/tag/session-4-solution) |
+| **Session 5** | From embeddings to context | [Download ↓](../../releases/tag/session-5-documentation) |
 | **Session 6** | Mini-project | [Download ↓](../../releases/tag/session-MP-documentation) |
 
 > 🔒 Sessions not yet available show — instead of a link.  
